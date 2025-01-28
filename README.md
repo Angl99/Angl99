@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angl99
+- 👋 Hi, I’m Angel
 - 👀 I’m interested in building cool tools, and tackling challenging problems.
 - 🌱 I’m currently learning Machine Learning and enhancing my skills in creating smarter systems.
 - 💞️ I’m looking to collaborate on unique and exciting projects that push the boundaries of what’s possible (cough cough A.I.).
